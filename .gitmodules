@@ -1,0 +1,24 @@
+[submodule "file_picker_platform_interface"]
+	path = packages/file_picker_platform_interface
+	url = git@github.com:Eu-Arthur/flutter_file_picker_platform_interface.git
+[submodule "file_picker_android"]
+	path = packages/file_picker_android
+	url = git@github.com:Eu-Arthur/flutter_file_picker_android.git
+[submodule "file_picker_ios"]
+	path = packages/file_picker_ios
+	url = git@github.com:Eu-Arthur/flutter_file_picker_ios.git
+[submodule "file_picker_linux"]
+	path = packages/file_picker_linux
+	url = git@github.com:Eu-Arthur/flutter_file_picker_linux.git
+[submodule "file_picker"]
+	path = packages/file_picker
+	url = git@github.com:Eu-Arthur/flutter_file_picker.git
+[submodule "file_picker_macos"]
+	path = packages/file_picker_macos
+	url = git@github.com:Eu-Arthur/flutter_file_picker_macos.git
+[submodule "file_picker_windows"]
+	path = packages/file_picker_windows
+	url = git@github.com:Eu-Arthur/flutter_file_picker_windows.git
+[submodule "file_picker_web"]
+	path = packages/file_picker_web
+	url = git@github.com:Eu-Arthur/flutter_file_picker_web.git
